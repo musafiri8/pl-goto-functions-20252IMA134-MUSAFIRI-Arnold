@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Assignment Overview](#-assignment-overview)
 - [Repository Structure](#-repository-structure)
 - [Summary of Tasks](#-summary-of-tasks)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Assignment Overview
+## Assignment Overview
 
 This individual assignment focuses on mastering core PL/SQL procedural features, structured control flow, and modular database programming:
 1. **PL/SQL `GOTO` statements:** Branching labels, unconditional jumps, and scoping rules.
@@ -37,7 +37,7 @@ This individual assignment focuses on mastering core PL/SQL procedural features,
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 pl-goto-functions-20252IMA134-MUSAFIRI Arnold/
@@ -74,7 +74,7 @@ pl-goto-functions-20252IMA134-MUSAFIRI Arnold/
 
 ---
 
-## 📝 Summary of Tasks
+##  Summary of Tasks
 
 ### Part A — GOTO Statements
 - **A1 — Number Classifier (`01_goto/A1_number_classifier.sql`):** Classifies numbers into Positive, Negative, or Zero using `GOTO` jumps to corresponding target labels.
@@ -95,7 +95,7 @@ pl-goto-functions-20252IMA134-MUSAFIRI Arnold/
 
 ---
 
-## 🚀 How to Run in Oracle SQL Developer
+##  How to Run in Oracle SQL Developer
 
 ### Environment Details
 - **IDE:** Oracle SQL Developer (Version 26.2.0.186.2220)
@@ -132,7 +132,7 @@ pl-goto-functions-20252IMA134-MUSAFIRI Arnold/
 
 ---
 
-## 📷 Screenshots & Verification
+##  Screenshots & Verification
 
 All screenshots are stored in the `screenshots/` directory:
 
@@ -147,7 +147,7 @@ All screenshots are stored in the `screenshots/` directory:
 
 ---
 
-## ⚖️ Academic Integrity & AI Disclosure
+##  Academic Integrity & AI Disclosure
 
 This is an individual assignment for course **INSY 8311**.
 - **AI Tool Assistance:** Generative AI was used to assist in organizing repository templates, formatting markdown documentation, and validating syntax consistency.
